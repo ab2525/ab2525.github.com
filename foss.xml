@@ -4,7 +4,7 @@
   <title><![CDATA[Snowkitty's <open source> foibles]]></title>
   <link href="http://ab2525.github.com/foss.xml" rel="self"/>
   <link href="http://ab2525.github.com/"/>
-  <updated>2013-03-07T17:37:03-05:00</updated>
+  <updated>2013-03-07T17:38:02-05:00</updated>
   <id>http://ab2525.github.com/</id>
   <author>
     <name><![CDATA[Alex Buie]]></name>
@@ -12,23 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Testing]]></title>
-    <link href="http://ab2525.github.com/blog/2013/03/07/testing/"/>
-    <updated>2013-03-07T17:23:00-05:00</updated>
-    <id>http://ab2525.github.com/blog/2013/03/07/testing</id>
-    <content type="html"><![CDATA[<p>This is a test post or something. There&#8217;s more after the break.</p>
-
-<!-- more -->
-
-
-<p><strong><em>Like this kitten!</em></strong></p>
-
-<p><img src="http://placekitten.com/512/256"></p>
-
-<p>lols</p>
-]]></content>
-  </entry>
   
 </feed>
