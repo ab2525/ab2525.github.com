@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Snowkitty's <open source> foibles]]></title>
-  <link href="http://ab2525.github.com/foss.xml" rel="self"/>
+  <title><![CDATA[Category: foss | Snowkitty's Foibles]]></title>
+  <link href="http://ab2525.github.com/blog/categories/foss/atom.xml" rel="self"/>
   <link href="http://ab2525.github.com/"/>
   <updated>2013-03-14T17:45:06-04:00</updated>
   <id>http://ab2525.github.com/</id>
@@ -18,8 +18,8 @@
     <link href="http://ab2525.github.com/blog/2013/03/14/sugar-activities/"/>
     <updated>2013-03-14T17:30:00-04:00</updated>
     <id>http://ab2525.github.com/blog/2013/03/14/sugar-activities</id>
-    <content type="html"><![CDATA[<p>I&#8217;m enrolled in a seminar entitled Humanitarian Free and Open Source Software. It&#8217;s designed to get us involved with FOSS projects as well as develop
-for the OLPC project&#8217;s XO computers running the Sugar desktop environment. We were tasked with choosing the three activities that looked the most interesting
+    <content type="html"><![CDATA[<p>I'm enrolled in a seminar entitled Humanitarian Free and Open Source Software. It's designed to get us involved with FOSS projects as well as develop
+for the OLPC project's XO computers running the Sugar desktop environment. We were tasked with choosing the three activities that looked the most interesting
 to us.</p>
 
 <p>The three sugar activities I thought looked most interesting are:
@@ -29,11 +29,11 @@ to us.</p>
 
 <p>== Chart ==
 This one looks interesting just because it fills a practical, real world use.
-In elementary and middle school science, often little &#8220;practice&#8221; experiments result in small amounts of data that could rapidly benefit from being
-easily presented in a graphical form, but they don&#8217;t need something as heavy as Excel. Chart fills this need for rapid data-visualization in an easy-to-comprehend interface.</p>
+In elementary and middle school science, often little "practice" experiments result in small amounts of data that could rapidly benefit from being
+easily presented in a graphical form, but they don't need something as heavy as Excel. Chart fills this need for rapid data-visualization in an easy-to-comprehend interface.</p>
 
 <p>== Typing Turtle ==
-I thought this was cool because, for a lot of the XO&#8217;s target audience, this is their first time interacting with a computer. Typing sofware is perfect for
+I thought this was cool because, for a lot of the XO's target audience, this is their first time interacting with a computer. Typing sofware is perfect for
 them to begin to get familiar with the UX patterns present in computing. We take a lot of these for granted, but a lot of the paradigms used when interfacing with
 the computer are not immediately obvious.</p>
 
@@ -44,14 +44,14 @@ from solutions like Giver on Linux [which I highly recommend checking out!].</p>
 <p>Say I want to send a file to someone whose sitting right next to me from Windows. What are my options?
 1. Dropbox and email/IM the public link
 1. Copy to flash drive, hand to him.
-1. Make sure we&#8217;re on the same network, share a folder, fix the permissions, and put the file in the shared folder. Then I need to explain to him how to
+1. Make sure we're on the same network, share a folder, fix the permissions, and put the file in the shared folder. Then I need to explain to him how to
 access my share
 1. Email, depending on size and filetype.</p>
 
 <p>None of these are particularly glamourous options. FileShare allows me to seamlessly click on anything in my documents or my journal, and effortlessly send it to
 anybody in my group. They get a friendly popup, and can accept into their own documents, or reject.</p>
 
-<p>I like to describe things in terms of the &#8220;effort coefficient&#8221; or the &#8220;human friction&#8221; value. This is a subjective measure of how much human power it takes
+<p>I like to describe things in terms of the "effort coefficient" or the "human friction" value. This is a subjective measure of how much human power it takes
 for me to accomplish a task that I want to complete, and for ad-hoc transfer of files with no configuration fuss, FileShare blows every other option out of the water.</p>
 ]]></content>
   </entry>
